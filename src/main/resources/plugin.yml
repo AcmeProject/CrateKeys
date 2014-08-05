@@ -1,0 +1,4 @@
+name: CrateKeys
+version: 0.1
+author: AcmeProject
+main: net.poweredbyhate.cratekeys.CrateKeys

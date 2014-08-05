@@ -1,0 +1,18 @@
+SuperDuperAwesomeCrate:
+    keyMaterial: 'EMERALD'
+    keyName: '&4The Super Key'
+    keyLore:
+    - '&aThis is a super sexy key'
+    - '&4Please use this for good.'
+    keyLevel: 10
+    keySound: ANVIL_USE
+    playerMessage: '&aEnjoy your items!'
+    broadcastMessage:
+    - '&4%player% &ajust opened the super dupser awesome crate!'
+    - '&aParty at his house!'
+    commands:
+    - 'give %player% diamond 69'
+    - 'heal %player%'
+    - 'say broadcastMessage seems a bit redundant, don't you think %player%?'
+    - 'sudo %player% me agress with you broadcast message'
+CrateLocations: []
